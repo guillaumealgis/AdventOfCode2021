@@ -6,6 +6,7 @@
 //
 
 import Foundation
+
 public func day1Puzzle2Main() {
     let input = loadInput(day: 1)
     let depths = depthsFromStrings(input)

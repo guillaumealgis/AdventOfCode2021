@@ -8,7 +8,14 @@
 import AdventOfCode2021
 import Foundation
 
+print("Day 1")
 day1Puzzle1Main()
 day1Puzzle2Main()
+print()
+
+print("Day 2")
+day2Puzzle1Main()
+day2Puzzle2Main()
+print()
 
 _ = readLine()
